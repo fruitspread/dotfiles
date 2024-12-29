@@ -20,3 +20,4 @@ The theme I use from polybar-theme is "material".
 - update nvim to fit layout
 - change bspwm windows
 - format THESE files to fit with correct paths
+- get a preview for the lockscreen
